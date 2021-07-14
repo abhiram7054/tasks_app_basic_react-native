@@ -4,7 +4,7 @@ Developing the tasks app. This gives the brief introduction of react-native, how
 # Tools used :
 - VS Code
 - expo
-- bluestacks
+- Android emulator (recommended)/bluestacks
 
 # Requirements
 - Basic knowledge of Javascript
